@@ -1,0 +1,30 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .login, .home, .room-details, .success {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .room-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .room {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .room img {
+    width: 500px;
+    height: 500px;
+  }
+   */

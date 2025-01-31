@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import "./paymentPage.css"
+import "./PaymentPage.css"
 const PaymentPage = () => {
   const location = useLocation();
   const navigate = useNavigate();
